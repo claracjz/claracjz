@@ -5,7 +5,7 @@
 - 🤝 Meus pronomes são: ela/dela
 
 ![claracjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=claracjz&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claracjz&layout=compact&langs_count=16&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claracjz&layout=compact&langs_count=16&theme=dracula)
 
 
 <div style="display: inline_block"><br>
