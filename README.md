@@ -5,6 +5,7 @@
 - 🤝 Meus pronomes são: ela/dela
 
 
+![claracjz's GitHub stats]<img height-"180cm"(https://github-readme-stats.vercel.app/api?username=claracjz&show_icons=true&theme=dracula)/>
 <img height-"180cm"(https://github-readme-stats.vercel.app/api?username=claracjz&show_icons=true&theme=dracula)/>
 <img height-"180cm"(https://github-readme-stats.vercel.app/api/top-langs/?username=claracjz&layout=compact&langs_count=16&theme=dracula)/>
 
