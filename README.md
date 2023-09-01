@@ -4,9 +4,10 @@
 - 👩‍💻 Desenvolvedora Backend  
 - 🤝 Meus pronomes são: ela/dela
 
+<div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=claracjz&show_icons=true&theme=dracula" />
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracjz&layout=compact&langs_count=16&theme=dracula" />
-
+</div>
 
 <div style="display: inline_block"><br>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
