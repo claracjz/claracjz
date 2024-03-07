@@ -1,7 +1,7 @@
 ## Olá! Sou a Ana Vitória 😊  
 
 - 🎓 Engenharia de Software
-- 👩‍💻 Desenvolvedora Backend  
+- 👩‍💻 Desenvolvedora Frontend  
 - 🤝 Meus pronomes são: ela/dela
 
 <div>
